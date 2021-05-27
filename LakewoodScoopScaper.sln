@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakewoodScoopScaper.Web", "LakewoodScoopScaper.Web\LakewoodScoopScaper.Web.csproj", "{BF886255-F73E-45DF-A676-4F8BFDDD3289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LakewoodScoopScraper.Data", "LakewoodScoopScraper.Data\LakewoodScoopScraper.Data.csproj", "{B6FB9252-A210-446C-8D6F-BAA73A3FFA47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF886255-F73E-45DF-A676-4F8BFDDD3289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF886255-F73E-45DF-A676-4F8BFDDD3289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF886255-F73E-45DF-A676-4F8BFDDD3289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF886255-F73E-45DF-A676-4F8BFDDD3289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FB9252-A210-446C-8D6F-BAA73A3FFA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FB9252-A210-446C-8D6F-BAA73A3FFA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FB9252-A210-446C-8D6F-BAA73A3FFA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FB9252-A210-446C-8D6F-BAA73A3FFA47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1420516C-4DB8-4914-8B70-A78CED2B0A3D}
+	EndGlobalSection
+EndGlobal
